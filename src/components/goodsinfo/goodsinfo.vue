@@ -7,7 +7,7 @@
 export default {
     data(){
         return{
-            goodsinfo:'goodsinfo_ok'
+            goodsinfo:'goodsinfo_ok2'
         }
     },
     mounted(){
